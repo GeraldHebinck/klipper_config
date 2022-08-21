@@ -1,2 +1,2 @@
 # klipper_config
-Klipper Configuration Files for my Printer
+Klipper Configuration Files for the Artist-D
